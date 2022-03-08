@@ -8,7 +8,8 @@ various metrics about performance etc.  This code has been tested on the OSU fli
 
 To run this code...
   1) Make sure that the 5-minute data files for the 18 selected ETFs are included in a 'data' subdirectory within the
-     current directory from which you are running the code.
+     current directory from which you are running the code.  Recent copies of these files may be found in the 'data'
+     directory at the following location:  https://github.com/y2carlton/CS467-HAR
 
   2) PREDICT mode or TEST mode may be selected by setting the 'PREDICT_MODE' constant to 'True' or 'False' respectively.
 
